@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+Link to website: https://ninar12.github.io/Character-by-Character-Animation/
 
-You can use the [editor on GitHub](https://github.com/ninar12/Character-by-Character-Animation/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## File Structure and Description:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. src contains the js element, and a testing example html file
+2. docs contains description of the HTML component and it's use cases, and prior research done
+3. demos includes how to use the component, and examples of how to import it into your html document
 
-### Markdown
+## In order to export:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Download the file in this repo, char-by-char-element.js
+2. Put `<script src="char-by-char-element.js"></script>` in your HTML head
+3. In your HTML body, put in `<char-by-char text="Insert Your Text"></char-by-char>`, and you will have text display like you are typing on a type writer! 💯 ☺️
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ninar12/Character-by-Character-Animation/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
