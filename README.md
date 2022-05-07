@@ -8,8 +8,8 @@ Link to website: https://ninar12.github.io/Character-by-Character-Animation/
 
 ## In order to export:
 
-1. Download the file in this repo, char-by-char-element.js
-2. Put `<script src="char-by-char-element.js"></script>` in your HTML head
+1. Download the file in this repo, char-by-char-element.js, within the src directory.
+2. Put `<script src=""></script>` in your HTML head
 3. In your HTML body, put in `<char-by-char text="Insert Your Text"></char-by-char>`, and you will have text display like you are typing on a type writer! 💯 ☺️
 
 
