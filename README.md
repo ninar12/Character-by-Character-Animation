@@ -15,3 +15,4 @@ Link to website: https://ninar12.github.io/Character-by-Character-Animation/
 
 
 <img width="409" alt="Screen Shot 2022-05-06 at 2 36 20 PM" src="https://user-images.githubusercontent.com/59401357/167198102-378d8e2f-6e6e-471f-8849-05bffb984e04.png">
+[An Internal Link](/demos/demo1.html)
