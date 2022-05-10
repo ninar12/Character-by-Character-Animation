@@ -1,4 +1,4 @@
-Link to website: https://ninar12.github.io/Character-by-Character-Animation/
+# Link to website: https://ninar12.github.io/Character-by-Character-Animation/
 
 ## File Structure and Description:
 
@@ -12,6 +12,7 @@ Link to website: https://ninar12.github.io/Character-by-Character-Animation/
 2. Put `<script src="char-by-char-element.js"></script>` in your HTML head
 3. In your HTML body, put in `<char-by-char text="Insert Your Text"></char-by-char>`, and you will have text display like you are typing on a type writer! 💯 ☺️
 
+## Links to demos
 
 [Demo 1](/demos/demo1.html)
 
