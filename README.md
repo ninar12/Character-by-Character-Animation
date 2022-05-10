@@ -19,3 +19,9 @@ Link to website: https://ninar12.github.io/Character-by-Character-Animation/
 [Demo 1](/demos/demo1.html)
 
 [Demo 2](/demos/demo2.html)
+
+[Demo 3](/demos/demo3.html)
+
+[Demo 4](/demos/demo4.html)
+
+[Demo 5](/demos/demo5.html)
